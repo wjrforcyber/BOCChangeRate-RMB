@@ -11,8 +11,7 @@ Bank of China--------GBP Monitor<br>
 880<br>
 Current GBP:891.63<br>
 ...<br>
-...
-ALERT!!! CHECK GBP: UNDER 880.0
-
+...<br>
+ALERT!!! CHECK GBP: UNDER 880.0<br>
 Enter 1 for Checking details 0 for continue:
 (1 Jump to the [official website](https://www.boc.cn/sourcedb/whpj/) 0 continue)
